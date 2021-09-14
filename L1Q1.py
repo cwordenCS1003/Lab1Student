@@ -1,5 +1,13 @@
-# Your Student Name, Your Student Number
-# Your Partner's Name, Your Partner's Number
-# Your Other Partner's Name, Your Other Partner's Number (delete if no other partner)
+# Chayse Worden, 3717308
+# Adam Jardine, 3717361
 
 # Write your code for Question 1 below
+
+print("*****************                       *                          ")
+print("*                                      *  *                        ")
+print("+                        *            *    *                       ")
+print("*                        *          **********                     ")
+print("*                    *********      *        *                     ")
+print("*                        *         *          *                    ")
+print("+                        *        *            *                   ")
+print("*****************                *              *                  ")
